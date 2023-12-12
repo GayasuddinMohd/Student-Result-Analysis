@@ -7,4 +7,10 @@ In this project, I have analyse the several factors that affects the score of th
 * Python
 
 # Dataset  
-* Download the dataset from [Kaggle](https://www.kaggle.com/datasets/desalegngeb/students-exam-scores?select=Expanded_data_with_more_features.csv).  
+* Download the dataset from [Kaggle](https://www.kaggle.com/datasets/desalegngeb/students-exam-scores?select=Expanded_data_with_more_features.csv).
+
+# Insights  
+* The number of females in the data is more than the males.
+* The education of the parents have a good impact on their children's scores.
+* There is negligible impact on the student's score due to their parent's marital status.
+* Most of the students are from group C and group D.
